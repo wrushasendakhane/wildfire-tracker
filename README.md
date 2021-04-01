@@ -1,6 +1,6 @@
 # wildfire-tracker
 ### Deployment Links
-https://wildfire-tracker-docker.herokuapp.com/
+https://wildfire-tracker-docker.herokuapp.com/\
 https://wildfire-tracker-gc7dc8w92.vercel.app/
 
 ### Learning Curve
